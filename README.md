@@ -10,9 +10,9 @@
 
 课题组秉承合作共赢，携手共进，开心第一的原则，旨在成为成员求学之路的瞭望塔、人生之路的加油站。茫茫人海，相遇是一种缘分，愿彼此都能留下美好的回忆，不负韶华。
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1sP0g.jpg" style="zoom:15%;" />
+<img src="https://s21.ax1x.com/2025/02/25/pE1sP0g.jpg" style="zoom: 80%;" />
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1wkDJ.jpg" style="zoom: 10.5%;" />
+<img src="https://s21.ax1x.com/2025/02/25/pE1wkDJ.jpg" style="zoom: 80%;" />
 
 ## 2. 科学研究（研究内容与成果）
 
@@ -20,11 +20,11 @@
 
 - **液滴撞击移动平面反弹行为研究**
 
-  <img src="https://s21.ax1x.com/2025/02/19/pEQPpWj.png" style="zoom:30%;" />
+  <img src="https://s21.ax1x.com/2025/02/19/pEQPpWj.png" style="zoom:80%;" />
 
 - **液滴非对称反弹行为中的对称性**
 
-  <img src="https://s21.ax1x.com/2025/02/19/pEQPSYQ.png" style="zoom:55%;" />
+  <img src="https://s21.ax1x.com/2025/02/19/pEQPSYQ.png" style="zoom:80%;" />
 
 - **移动脊状表面协同作用下的液滴接触时间降低机理**
 
@@ -32,15 +32,15 @@
 
 - **双液滴融合-反弹行为研究**
 
-![ywl1](https://s21.ax1x.com/2025/02/19/pEQPCSs.png)
+<img src="https://s21.ax1x.com/2025/02/19/pEQPCSs.png" alt="ywl1" style="zoom:80%;" />
 
 - **基于神经网络的液滴最大铺展因子预测模型**
 
-<img src="https://s21.ax1x.com/2025/02/21/pEQTKwq.png" alt="ywl2" style="zoom:67%;" />
+<img src="https://s21.ax1x.com/2025/02/21/pEQTKwq.png" alt="ywl2" style="zoom:80%;" />
 
 - **液滴非对称反弹行为中的对称性**
 
-<img src="https://s21.ax1x.com/2025/02/21/pEQTmOs.png" alt="ywl3" style="zoom:50%;" />
+<img src="https://s21.ax1x.com/2025/02/21/pEQTmOs.png" alt="ywl3" style="zoom:80%;" />
 
 - **移动脊状表面协同作用下的液滴接触时间降低机理**
 
@@ -48,7 +48,7 @@
 
 - **液滴非对心冲击移动脊状表面的应力演变机理**
 
-<img src="https://s21.ax1x.com/2025/02/21/pEQTumn.png" alt="ywl5" style="zoom:55%;" />
+<img src="https://s21.ax1x.com/2025/02/21/pEQTumn.png" alt="ywl5" style="zoom:80%;" />
 
 - **涡流驱动的液滴定向输运行为**
 
@@ -60,65 +60,71 @@
 
 - **液滴摩擦发电**
 
-<img src="https://s41.ax1x.com/2026/01/05/pZaI456.png" style="zoom:20%;" />
+<img src="https://s41.ax1x.com/2026/01/05/pZaI456.png" style="zoom:80%;" />
 
 - **小型旋翼飞行器雨滴冲击行为研究**
 
-  <img src="https://s41.ax1x.com/2026/01/05/pZabdht.png" style="zoom:50%;" />
+  <img src="https://s41.ax1x.com/2026/01/05/pZabdht.png" style="zoom:80%;" />
 
-<img src="https://s41.ax1x.com/2026/01/05/pZabatI.png" style="zoom:55%;" />
+<img src="https://s41.ax1x.com/2026/01/05/pZabatI.png" style="zoom:80%;" />
 
-<img src="https://s41.ax1x.com/2026/01/05/pZabUAA.png" style="zoom:63%;" />
+<img src="https://s41.ax1x.com/2026/01/05/pZabUAA.png" style="zoom:80%;" />
 
 ### 2.2 深度学习赋能
 
 - **基于LSTM神经网络在多气动参数下的翼型反设计**
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1dxNq.png" style="zoom:40%;" />
+<img src="https://s21.ax1x.com/2025/02/25/pE1dxNq.png" style="zoom: 80%;" />
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1dvEn.png" style="zoom:43%;" />
+
+
+<img src="https://s21.ax1x.com/2025/02/25/pE1dvEn.png" style="zoom: 80%;" />
 
 - **基于物理信息的神经网络PINNs的顶盖驱动方舱流问题研究**
 
-<img src="https://s21.ax1x.com/2025/02/19/pEMO6xO.png" style="zoom:28%;" />
+<img src="https://s21.ax1x.com/2025/02/19/pEMO6xO.png" style="zoom: 80%;" />
 
 - **基于DeepONet的翼型正设计替代模型及其可解释性分析**
 
-<img src="https://s21.ax1x.com/2025/02/19/pEMOBI1.png" style="zoom:23%;" />
+<img src="https://s21.ax1x.com/2025/02/19/pEMOBI1.png" style="zoom: 80%;" />
 
-<img src="https://s21.ax1x.com/2025/02/19/pEQCXef.png" style="zoom:23%;" />
+<img src="https://s21.ax1x.com/2025/02/19/pEQCXef.png" style="zoom: 80%;" />
 
 - **燃气轮机涡轮性能多维度预测优化数字孪生系统**
 
-<img src="https://s21.ax1x.com/2025/02/19/pEMOsG6.png" style="zoom:75%;" />
+<img src="https://s21.ax1x.com/2025/02/19/pEMOsG6.png" style="zoom: 80%;" />
 
-<img src="https://s21.ax1x.com/2025/02/19/pEMOrPx.png" style="zoom:26%;" />
+<img src="https://s21.ax1x.com/2025/02/19/pEMOrPx.png" style="zoom: 80%;" />
 
-<img src="https://s21.ax1x.com/2025/02/19/pEQPPln.png" style="zoom:23%;" />
+<img src="https://s21.ax1x.com/2025/02/19/pEQPPln.png" style="zoom: 80%;" />
 
 - **基于SHAP方法引导的遗传算法翼型优化设计**
 
-<img src="https://s41.ax1x.com/2026/01/06/pZdd6sg.png" style="zoom:50%;" />
+<img src="https://s41.ax1x.com/2026/01/06/pZdd6sg.png" style="zoom: 80%;" />
 
-<img src="https://s41.ax1x.com/2026/01/06/pZdwFwd.png" style="zoom:25%;" />
+
+
+<img src="https://s41.ax1x.com/2026/01/06/pZdwFwd.png" style="zoom: 80%;" />
 
 - **飞机翼型优化设计智能体**
 
-<img src="https://s41.ax1x.com/2026/01/06/pZddyQS.png" style="zoom: 53%;" />
+<img src="https://s41.ax1x.com/2026/01/06/pZddyQS.png" style="zoom: 80%;" />
 
 - **基于MLP神经网络的髋关节置换术康复日程预测**
 
-  <img src="https://s41.ax1x.com/2026/01/06/pZdwSSK.png" style="zoom:30%;" />
+  <img src="https://s41.ax1x.com/2026/01/06/pZdwSSK.png" style="zoom: 80%;" />
 
 - **基于ViT神经网络的复杂纹理图片识别**
 
-<img src="https://s41.ax1x.com/2026/01/06/pZddvJx.jpg" style="zoom:40%;" />
+<img src="https://s41.ax1x.com/2026/01/06/pZddvJx.jpg" style="zoom: 80%;" />
 
-<img src="https://s41.ax1x.com/2026/01/06/pZdahvD.png" style="zoom:23%;" />
+
+
+<img src="https://s41.ax1x.com/2026/01/06/pZdahvD.png" style="zoom: 80%;" />
 
 - **基于MediaPipe框架的人体姿态估计与屈膝角度计算**
 
-  <img src="https://s41.ax1x.com/2026/01/06/pZdwpQO.png" style="zoom:25%;" />
+  <img src="https://s41.ax1x.com/2026/01/06/pZdwpQO.png" style="zoom: 80%;" />
 
 ## 3. 人才培养（个人简历与成果）
 
@@ -176,11 +182,11 @@
 
 - **液滴撞击移动平面反弹行为研究**
 
-  <img src="https://s21.ax1x.com/2025/02/19/pEQPpWj.png" style="zoom:30%;" />
+  <img src="https://s21.ax1x.com/2025/02/19/pEQPpWj.png" style="zoom: 80%;" />
 
 - **液滴非对称反弹行为中的对称性**
 
-  <img src="https://s21.ax1x.com/2025/02/19/pEQPSYQ.png" style="zoom:55%;" />
+  <img src="https://s21.ax1x.com/2025/02/19/pEQPSYQ.png" style="zoom: 80%;" />
 
 - **移动脊状表面协同作用下的液滴接触时间降低机理**
 
@@ -210,9 +216,11 @@
 
 - **基于LSTM神经网络在多气动参数下的翼型反设计**
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1dxNq.png" style="zoom:40%;" />
+<img src="https://s21.ax1x.com/2025/02/25/pE1dxNq.png" style="zoom: 80%;" />
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1dvEn.png" style="zoom:43%;" />
+
+
+<img src="https://s21.ax1x.com/2025/02/25/pE1dvEn.png" style="zoom: 80%;" />
 
 **研究成果**
 
@@ -252,15 +260,15 @@
 
 - **双液滴融合-反弹行为研究**
 
-![ywl1](https://s21.ax1x.com/2025/02/19/pEQPCSs.png)
+<img src="https://s21.ax1x.com/2025/02/19/pEQPCSs.png" alt="ywl1" style="zoom:80%;" />
 
 - **基于神经网络的液滴最大铺展因子预测模型**
 
-<img src="https://s21.ax1x.com/2025/02/21/pEQTKwq.png" alt="ywl2" style="zoom:67%;" />
+<img src="https://s21.ax1x.com/2025/02/21/pEQTKwq.png" alt="ywl2" style="zoom: 80%;" />
 
 - **液滴非对称反弹行为中的对称性**
 
-<img src="https://s21.ax1x.com/2025/02/21/pEQTmOs.png" alt="ywl3" style="zoom:50%;" />
+<img src="https://s21.ax1x.com/2025/02/21/pEQTmOs.png" alt="ywl3" style="zoom: 80%;" />
 
 - **移动脊状表面协同作用下的液滴接触时间降低机理**
 
@@ -268,9 +276,9 @@
 
 - **液滴非对心冲击移动脊状表面的应力演变机理**
 
-<img src="https://s21.ax1x.com/2025/02/21/pEQTumn.png" alt="ywl5" style="zoom:55%;" />
+<img src="https://s21.ax1x.com/2025/02/21/pEQTumn.png" alt="ywl5" style="zoom: 80%;" />
 
-![ywl1](https://s21.ax1x.com/2025/02/19/pEQPCSs.png)
+<img src="https://s21.ax1x.com/2025/02/19/pEQPCSs.png" alt="ywl1" style="zoom:80%;" />
 
 **研究成果**
 
@@ -314,31 +322,33 @@
 
 - **基于物理信息的神经网络PINNs的顶盖驱动方舱流问题研究**
 
-<img src="https://s21.ax1x.com/2025/02/19/pEMO6xO.png" style="zoom:28%;" />
+<img src="https://s21.ax1x.com/2025/02/19/pEMO6xO.png" style="zoom: 80%;" />
 
 - **基于DeepONet的翼型正设计替代模型及其可解释性分析**
 
-<img src="https://s21.ax1x.com/2025/02/19/pEMOBI1.png" style="zoom:23%;" />
+<img src="https://s21.ax1x.com/2025/02/19/pEMOBI1.png" style="zoom: 80%;" />
 
-<img src="https://s21.ax1x.com/2025/02/19/pEQCXef.png" style="zoom:23%;" />
+<img src="https://s21.ax1x.com/2025/02/19/pEQCXef.png" style="zoom: 80%;" />
 
 - **燃气轮机涡轮性能多维度预测优化数字孪生系统**
 
-<img src="https://s21.ax1x.com/2025/02/19/pEMOsG6.png" style="zoom:75%;" />
+<img src="https://s21.ax1x.com/2025/02/19/pEMOsG6.png" style="zoom: 80%;" />
 
-<img src="https://s21.ax1x.com/2025/02/19/pEMOrPx.png" style="zoom:26%;" />
+<img src="https://s21.ax1x.com/2025/02/19/pEMOrPx.png" style="zoom: 80%;" />
 
-<img src="https://s21.ax1x.com/2025/02/19/pEQPPln.png" style="zoom:23%;" />
+<img src="https://s21.ax1x.com/2025/02/19/pEQPPln.png" style="zoom: 80%;" />
 
 - **基于SHAP方法引导的遗传算法翼型优化设计**
 
-<img src="https://s41.ax1x.com/2026/01/06/pZdd6sg.png" style="zoom:50%;" />
+<img src="https://s41.ax1x.com/2026/01/06/pZdd6sg.png" style="zoom: 80%;" />
 
-<img src="https://s41.ax1x.com/2026/01/06/pZdwFwd.png" style="zoom:25%;" />
+
+
+<img src="https://s41.ax1x.com/2026/01/06/pZdwFwd.png" style="zoom: 80%;" />
 
 - **飞机翼型优化设计智能体**
 
-<img src="https://s41.ax1x.com/2026/01/06/pZddyQS.png" style="zoom: 53%;" />
+<img src="https://s41.ax1x.com/2026/01/06/pZddyQS.png" style="zoom: 80%;" />
 
 **研究成果**
 
@@ -374,7 +384,7 @@
 
 - **液滴摩擦发电**
 
-<img src="https://s41.ax1x.com/2026/01/05/pZaI456.png" style="zoom:20%;" />
+<img src="https://s41.ax1x.com/2026/01/05/pZaI456.png" style="zoom: 80%;" />
 
 
 **研究成果**
@@ -401,11 +411,13 @@
 
 - **小型旋翼飞行器雨滴冲击行为研究**
 
-  <img src="https://s41.ax1x.com/2026/01/05/pZabdht.png" style="zoom:50%;" />
+  <img src="https://s41.ax1x.com/2026/01/05/pZabdht.png" style="zoom: 80%;" />
 
-<img src="https://s41.ax1x.com/2026/01/05/pZabatI.png" style="zoom:55%;" />
+<img src="https://s41.ax1x.com/2026/01/05/pZabatI.png" style="zoom: 80%;" />
 
-<img src="https://s41.ax1x.com/2026/01/05/pZabUAA.png" style="zoom:63%;" />
+
+
+<img src="https://s41.ax1x.com/2026/01/05/pZabUAA.png" style="zoom: 80%;" />
 
 **研究成果**
 
@@ -441,17 +453,19 @@
 
 - **基于MLP神经网络的髋关节置换术康复日程预测**
 
-  <img src="https://s41.ax1x.com/2026/01/06/pZdwSSK.png" style="zoom:30%;" />
+  <img src="https://s41.ax1x.com/2026/01/06/pZdwSSK.png" style="zoom: 80%;" />
 
 - **基于ViT神经网络的复杂纹理图片识别**
 
-<img src="https://s41.ax1x.com/2026/01/06/pZddvJx.jpg" style="zoom:40%;" />
+<img src="https://s41.ax1x.com/2026/01/06/pZddvJx.jpg" style="zoom: 80%;" />
 
-<img src="https://s41.ax1x.com/2026/01/06/pZdahvD.png" style="zoom:23%;" />
+
+
+<img src="https://s41.ax1x.com/2026/01/06/pZdahvD.png" style="zoom: 80%;" />
 
 - **基于MediaPipe框架的人体姿态估计与屈膝角度计算**
 
-  <img src="https://s41.ax1x.com/2026/01/06/pZdwpQO.png" style="zoom:25%;" />
+  <img src="https://s41.ax1x.com/2026/01/06/pZdwpQO.png" style="zoom: 80%;" />
 
 
 **研究成果**
@@ -470,7 +484,7 @@
 
 - **台州神仙居风景区**（2025年11月）
 
-<img src="https://s41.ax1x.com/2026/01/08/pZw1uRJ.jpg" style="zoom:50%;" />
+<img src="https://s41.ax1x.com/2026/01/08/pZw1uRJ.jpg" style="zoom: 80%;" />
 
 - **成都武侯祠**（2024年11月）
 
@@ -478,31 +492,31 @@
 
 - **连云港花果山风景区**（2024年11月）
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1rxpt.jpg" style="zoom:21%;" />
+<img src="https://s21.ax1x.com/2025/02/25/pE1rxpt.jpg" style="zoom: 80%;" />
 
 - **连云港连岛风景区**（2024年11月）
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1wAb9.jpg" style="zoom:21%;" />
+<img src="https://s21.ax1x.com/2025/02/25/pE1wAb9.jpg" style="zoom: 80%;" />
 
-<img src="https://s21.ax1x.com/2025/02/21/pEQTMT0.jpg" style="zoom:28%;" />
+<img src="https://s21.ax1x.com/2025/02/21/pEQTMT0.jpg" style="zoom: 80%;" />
 
 - **全国第十三届全国流体力学学术会议（哈尔滨）**（2024年8月）
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1sgjf.jpg" style="zoom:46%;" />
+<img src="https://s21.ax1x.com/2025/02/25/pE1sgjf.jpg" style="zoom: 80%;" />
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1sRu8.jpg" style="zoom:22%;" />
+<img src="https://s21.ax1x.com/2025/02/25/pE1sRu8.jpg" style="zoom: 80%;" />
 
 - **宁波鼓楼**（2023年11月）
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1wpCV.jpg" style="zoom:22%;" />
+<img src="https://s21.ax1x.com/2025/02/25/pE1wpCV.jpg" style="zoom: 80%;" />
 
 - **宁波雪窦山风景区**（2023年11月）
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1rWk9.jpg" style="zoom:16%;" />
+<img src="https://s21.ax1x.com/2025/02/25/pE1rWk9.jpg" style="zoom: 80%;" />
 
 - **第十三届全国实验流体力学学术会议（合肥）**（2023年4月）
 
-<img src="https://s21.ax1x.com/2025/02/25/pE1wZU1.jpg" style="zoom:23%;" />
+<img src="https://s21.ax1x.com/2025/02/25/pE1wZU1.jpg" style="zoom: 80%;" />
 
 ## 5. 联系我们（联系方式）
 
